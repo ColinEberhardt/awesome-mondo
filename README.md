@@ -1,7 +1,7 @@
 # Awesome Mondo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome [Mondo](https://getmondo.co.uk) related things
 
-Inspired by the [awesome ★ 33,918](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome b 33,918 ★ 33,939](https://github.com/sindresorhus/awesome) list thing.
 
 ## General Resources
 
@@ -19,90 +19,90 @@ Inspired by the [awesome ★ 33,918](https://github.com/sindresorhus/awesome) li
 
 ##### Web
 
-- [mondo-dashboard - A dashboard built on top of the Mondo API ★ 2](https://github.com/willrax/mondo-dashboard)
-- [mondoweb - An online banking client built on the Mondo API ★ 14](https://github.com/jamesallison/mondoweb)
-- [mondo-web - Mondo online banking app ★ 4](https://github.com/scottrobertson/mondo-web)
-- [My Mondo - Mondo iOS app clone for web ★ 10](https://github.com/Manoj-nathwani/my-mondo)
+- [mondo-dashboard - A dashboard built on top of the Mondo API b 2 ★ 2](https://github.com/willrax/mondo-dashboard)
+- [mondoweb - An online banking client built on the Mondo API b 14 ★ 14](https://github.com/jamesallison/mondoweb)
+- [mondo-web - Mondo online banking app b 4 ★ 4](https://github.com/scottrobertson/mondo-web)
+- [My Mondo - Mondo iOS app clone for web b 10 ★ 10](https://github.com/Manoj-nathwani/my-mondo)
 
 ##### Desktop
 
-- [mondobar - Your Mondo balance in your menubar ★ 4](https://github.com/jongold/mondobar)
+- [mondobar - Your Mondo balance in your menubar b 4 ★ 4](https://github.com/jongold/mondobar)
 - [Mondo.extension - A browser extension for Mondo](https://github.com/danielgraf/Mondo.extension)
 - [Mon.do Chrome Extension - A browser extension for your Mondo account to get display your current balance and days spending ](https://github.com/dphobson/Mon.do.extension.chrome)
 
 ##### Android
-- [MondoAndroid - An Android app for Mondo ★ 2](https://github.com/joluet/MondoAndroid)
+- [MondoAndroid - An Android app for Mondo b 2 ★ 2](https://github.com/joluet/MondoAndroid)
 
 ##### Apple Watch
 
-- [WatchKit - Notification app from the Mondo hackday ★ 1](https://github.com/timd/MondoHack)
+- [WatchKit - Notification app from the Mondo hackday b 1 ★ 1](https://github.com/timd/MondoHack)
 
 ## Games
 
 - [GottaCatchEmAll - Unlock emojis as you spend](http://gottacatchemall.herokuapp.com/register)
-- [Mondo The Game ★ 1](https://github.com/jonashuckestein/mondo-the-game)
+- [Mondo The Game b 1 ★ 1](https://github.com/jonashuckestein/mondo-the-game)
 
 ## Code & Client Libraries
 
 ##### C# #
 - [Mondo.NET - A C# client library for the Mondo bank API](https://github.com/rdingwall/mondo.net)
-- [MondoAspNetMvcSample - Sample Mondo.NET web app ★ 1](https://github.com/rdingwall/MondoAspNetMvcSample)
-- [MondoUniversalWindowsSample - Sample Mondo.NET desktop/phone app ★ 1](https://github.com/rdingwall/MondoUniversalWindowsSample)
+- [MondoAspNetMvcSample - Sample Mondo.NET web app b 1 ★ 1](https://github.com/rdingwall/MondoAspNetMvcSample)
+- [MondoUniversalWindowsSample - Sample Mondo.NET desktop/phone app b 1 ★ 1](https://github.com/rdingwall/MondoUniversalWindowsSample)
 
 ##### Clojure
-- [mondo-clj - Provides a clojure wrapper to the Mondo bank API ★ 1](https://github.com/adamneilson/mondo-clj)
+- [mondo-clj - Provides a clojure wrapper to the Mondo bank API b 1 ★ 1](https://github.com/adamneilson/mondo-clj)
 
 ##### Elixir
-- [mondo_elixir - An Elixir client for the Mondo API ★ 5](https://github.com/stevedomin/mondo_elixir)
+- [mondo_elixir - An Elixir client for the Mondo API b 5 ★ 5](https://github.com/stevedomin/mondo_elixir)
 
 ##### Go
-- [go-mondo - Provides Go bindings for the Mondo banking app ★ 23](https://github.com/sjwhitworth/go-mondo)
+- [go-mondo - Provides Go bindings for the Mondo banking app b 23 ★ 23](https://github.com/sjwhitworth/go-mondo)
 
 ##### Haskell
 - [mondo - Haskell bindings for the Mondo API](https://hackage.haskell.org/package/mondo)
 
 ##### Javascript
 
-- [mondo-bank - Node wrapper for Mondo API ★ 18](https://github.com/solidgoldpig/mondo-bank)
-- [mondo-lambda-auth - AWS Lambda functions for fetching and refreshing Mondo tokens ★ 0](https://github.com/willrax/mondo-lambda-auth)
-- [MondoJs - A javascript client for the Mondo API ★ 1](https://github.com/lededje/Mondojs)
-- [mondo-webhook-mock - Small tool for mocking outgoing Mondo webhooks ★ 0](https://github.com/mcky/mondo-webhook-mock)
+- [mondo-bank - Node wrapper for Mondo API b 18 ★ 18](https://github.com/solidgoldpig/mondo-bank)
+- [mondo-lambda-auth - AWS Lambda functions for fetching and refreshing Mondo tokens b 0 ★ 0](https://github.com/willrax/mondo-lambda-auth)
+- [MondoJs - A javascript client for the Mondo API b 1 ★ 1](https://github.com/lededje/Mondojs)
+- [mondo-webhook-mock - Small tool for mocking outgoing Mondo webhooks b 0 ★ 0](https://github.com/mcky/mondo-webhook-mock)
 - [passport-mondo-oauth2 - Passport strategy for authenticating with Mondo using the OAuth 2.0 API](https://www.npmjs.com/package/passport-mondo-oauth2)
 
 ##### PHP
-- [Mondo-Client - A Mondo Bank API Client ★ 7](https://github.com/ThePixelDeveloper/Mondo-Client)
-- [mondo-php - A PHP-HTTP and PSR-7 Mondo API client ★ 4](https://github.com/edcs/mondo-php)
-- [oauth-mondo - A Mondo provider for the PHP League OAuth 2.0 Client ★ 3](https://github.com/edcs/oauth-mondo)
+- [Mondo-Client - A Mondo Bank API Client b 7 ★ 7](https://github.com/ThePixelDeveloper/Mondo-Client)
+- [mondo-php - A PHP-HTTP and PSR-7 Mondo API client b 4 ★ 4](https://github.com/edcs/mondo-php)
+- [oauth-mondo - A Mondo provider for the PHP League OAuth 2.0 Client b 3 ★ 3](https://github.com/edcs/oauth-mondo)
 
 ##### Python
-- [mondo-python - A simple python SDK for dealing with the Mondo API ★ 15](https://github.com/simonvc/mondo-python)
+- [mondo-python - A simple python SDK for dealing with the Mondo API b 15 ★ 15](https://github.com/simonvc/mondo-python)
 
 ##### Ruby
 - [mondo-ruby (official) - The Mondo Ruby client provides a simple Ruby interface to the Mondo API](https://github.com/mondough/mondo-ruby)
-- [omni-auth-mondo - Mondo strategy for OmniAuth ★ 1](https://github.com/tombell/omniauth-mondo)
-- [omniauth-mondo-example - Example Sinatra app using the Mondo provider for OmniAuth ★ 0](https://github.com/tombell/omniauth-mondo-example)
+- [omni-auth-mondo - Mondo strategy for OmniAuth b 1 ★ 1](https://github.com/tombell/omniauth-mondo)
+- [omniauth-mondo-example - Example Sinatra app using the Mondo provider for OmniAuth b 0 ★ 0](https://github.com/tombell/omniauth-mondo-example)
 
 ##### Swift
-- [MondoKit - A Swift framework for accessing the Mondo bank API ★ 11](https://github.com/pollarm/MondoKit)
+- [MondoKit - A Swift framework for accessing the Mondo bank API b 11 ★ 11](https://github.com/pollarm/MondoKit)
 
 ## Integrations
 
-- [Foursquare - Auto-foursquare checkin on transansactions ★ 2](https://github.com/JasonBates/mhook)
-- [MondoSquared - Automatically check into foursquare when using your Mondo card ★ 2](https://github.com/DanielTomlinson/MondoSquared)
-- [Google Calendar - Put your bank transactions in your Google Calendar ★ 0](https://github.com/jairodiaz/mondo-google-calendar)
-- [GMail - email receipts automatically linked to your transactions ★ 1](https://github.com/rdingwall/hackathon-attachment-publisher)
-- [Google sheets - Automatically add transactions to a Google spreadsheet ★ 4](https://github.com/mcky/mondo-sheets)
-- [Uber - Instant publishing of Uber receipts to your Mondo bank feed ★ 5](https://github.com/rdingwall/hackathon-uber-mondo)
-- [Nectar Card - Loyalty scheme balance tracking in your Mondo account ★ 6](https://github.com/danpalmer/mondo-loyalty)
-- [mondo-tx-heatmap - Mondo transactions displayed as a heatmap ★ 2](https://github.com/rmuch/mondo-tx-heatmap)
-- [mondochat ★ 0](https://github.com/billinghamj/mondochat)
-- [TeamCash - a smart spending tracker for small teams and businesses ★ 4](https://github.com/elliotdavies/mondo-hackday)
-- [mondo-bills - service to monitor subscriptions and bills coming out of your Mondo account automatically ★ 1](https://github.com/danpalmer/mondo-bills)
-- [bitmondo - Show Bitcoin transactions at Mondo feed ★ 1](https://github.com/ondrejsika/bitmondo)
+- [Foursquare - Auto-foursquare checkin on transansactions b 2 ★ 2](https://github.com/JasonBates/mhook)
+- [MondoSquared - Automatically check into foursquare when using your Mondo card b 2 ★ 2](https://github.com/DanielTomlinson/MondoSquared)
+- [Google Calendar - Put your bank transactions in your Google Calendar b 0 ★ 0](https://github.com/jairodiaz/mondo-google-calendar)
+- [GMail - email receipts automatically linked to your transactions b 1 ★ 1](https://github.com/rdingwall/hackathon-attachment-publisher)
+- [Google sheets - Automatically add transactions to a Google spreadsheet b 4 ★ 4](https://github.com/mcky/mondo-sheets)
+- [Uber - Instant publishing of Uber receipts to your Mondo bank feed b 5 ★ 5](https://github.com/rdingwall/hackathon-uber-mondo)
+- [Nectar Card - Loyalty scheme balance tracking in your Mondo account b 6 ★ 6](https://github.com/danpalmer/mondo-loyalty)
+- [mondo-tx-heatmap - Mondo transactions displayed as a heatmap b 2 ★ 2](https://github.com/rmuch/mondo-tx-heatmap)
+- [mondochat b 0 ★ 0](https://github.com/billinghamj/mondochat)
+- [TeamCash - a smart spending tracker for small teams and businesses b 4 ★ 4](https://github.com/elliotdavies/mondo-hackday)
+- [mondo-bills - service to monitor subscriptions and bills coming out of your Mondo account automatically b 1 ★ 1](https://github.com/danpalmer/mondo-bills)
+- [bitmondo - Show Bitcoin transactions at Mondo feed b 1 ★ 1](https://github.com/ondrejsika/bitmondo)
 
 ## Hardware
 
-- [emvexplorer - An electron desktop app to read EMV card data ★ 2](https://github.com/danielgraf/emvexplorer)
+- [emvexplorer - An electron desktop app to read EMV card data b 2 ★ 2](https://github.com/danielgraf/emvexplorer)
 
 ## Events
 
